@@ -1,0 +1,4 @@
+userdata_datadog.sh
+
+*.tfstate*
+.terraform/
